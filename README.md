@@ -1,0 +1,1 @@
+A convenient way to see the restaurants near customer locations. Restaurants can be filtered based on various criteria.
